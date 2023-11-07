@@ -2,10 +2,10 @@
 
 Coffee is a software solution designed for coffee shops, enabling you to easily create and manage a comprehensive menu of coffee items
 
-### Installation
+## Installation
 Follow these steps to get started with Coffee:
 
-## Dependencies
+### Dependencies
 - clang
 - make
 
@@ -24,5 +24,5 @@ $ make
 Run Coffee:
 ```sh
 $ ./coffee.out
-```sh
+```
 
