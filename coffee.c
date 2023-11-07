@@ -56,7 +56,6 @@ int main()
 		{
 		case 1:
 			addItem(&head, fptr);
-			// writeFile(fptr, head);
 			break;
 		case 2:
 			readFile(fptr, &head);
