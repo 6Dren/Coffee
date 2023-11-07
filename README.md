@@ -11,7 +11,7 @@ Follow these steps to get started with Coffee:
 
 Clone the repository:
 ```sh
-$ git clone https://github.com/6Dren/Coffee.git)https://github.com/6Dren/Coffee.git
+$ git clone https://github.com/6Dren/Coffee.git
 ```
 Navigate to the Coffee directory:
 ```sh
